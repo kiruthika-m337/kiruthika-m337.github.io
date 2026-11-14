@@ -1,0 +1,293 @@
+{
+  "profile": {
+    "name": "M. Kiruthika",
+    "badge": "Agricultural Engineering | Food Processing | Post-Harvest Technology",
+    "headline": "Agricultural Engineering Student | Food Processing, R&D and Quality Assurance",
+    "intro": "Final-year B.Tech Agricultural Engineering student with a strong interest in the food sector, a team-lead mindset, and a goal to build a career in food R&D and Quality Assurance.",
+    "photo": "images/profile/IMG_20260819_090733.jpg",
+    "photoAlt": "M. Kiruthika - B.Tech Agricultural Engineering Student",
+    "institution": "Dhanalakshmi Srinivasan University, Tiruchirappalli",
+    "classOf": "Class of 2027",
+    "cgpa": "CGPA 7.1",
+    "targetRole": "Food R&D • QA",
+    "resumeUrl": "resume/Kiruthika_M_Resume.pdf",
+    "highlights": [
+      {
+        "title": "Patent Work",
+        "subtitle": "Edible Coating",
+        "description": "Edible Coating Solution with Automatic Applying Machine",
+        "icon": "patent"
+      },
+      {
+        "title": "FSSAI & HACCP",
+        "subtitle": "Trained",
+        "description": "Certified in food safety standards, labeling & QA hazard controls",
+        "icon": "shield"
+      },
+      {
+        "title": "Internships",
+        "subtitle": "Chocolate & Pastry Units",
+        "description": "Hands-on industrial processing in Kodaikanal production units",
+        "icon": "factory"
+      },
+      {
+        "title": "First Prize",
+        "subtitle": "Agri Hackathon 4.0",
+        "description": "Department award singled out by entrepreneur chief guest",
+        "icon": "trophy"
+      }
+    ]
+  },
+  "about": {
+    "label": "Background & Vision",
+    "title": "About M. Kiruthika",
+    "subtitle": "Bridging agricultural science and modern food technology to engineer safer, shelf-stable, and value-added consumer food innovations.",
+    "paragraphs": [
+      "I am a final-year B.Tech Agricultural Engineering student at Dhanalakshmi Srinivasan University, Tiruchirappalli, graduating in 2027. My academic foundation blends strong engineering principles—fluid dynamics, heat transfer, and mechanical prototyping—with an intense specialization in post-harvest technology and food product development.",
+      "My passion is rooted in food processing and value addition: transforming perishable crops and agricultural byproducts into functional, nutrient-retaining, and sustainable products. Through hands-on college initiatives, I have spearheaded cross-functional teams in formulating an organic edible fruit-coating solution from jackfruit peel waste, developing grain-based biodegradable chewing gums, and building automated application machinery.",
+      "My career goal is to build a high-impact career in Food Industry R&D and Quality Assurance. I bring rigorous attention to regulatory compliance (FSSAI guidelines and HACCP hazard control), proven team leadership across four successful engineering projects, and a steadfast dedication to consistent quality standards."
+    ],
+    "stats": [
+      {
+        "value": "4+",
+        "label": "Projects Led as Team Lead"
+      },
+      {
+        "value": "17 Days",
+        "label": "Industrial Processing Unit Internships"
+      },
+      {
+        "value": "6+",
+        "label": "Professional Certifications in QA & Data"
+      }
+    ],
+    "education": {
+      "degree": "B.Tech Agricultural Engineering",
+      "institution": "Dhanalakshmi Srinivasan University",
+      "location": "Tiruchirappalli, Tamil Nadu",
+      "year": "2027",
+      "cgpa": "7.1",
+      "highlights": [
+        "Food Process Engineering & Post-Harvest Preservation",
+        "Dairy and Food Processing Operations & Machinery",
+        "Food Safety Regulations, Standards & Hygiene Compliance",
+        "Heat & Mass Transfer in Thermal Food Preservation",
+        "Agro-Waste Valorization & Circular Bioeconomy"
+      ]
+    }
+  },
+  "skills": {
+    "label": "Core Competencies",
+    "title": "Technical & Professional Skills",
+    "subtitle": "Structured proficiencies spanning food quality regulations, analytical data tools, agricultural engineering prototypes, and collaborative team leadership.",
+    "categories": [
+      {
+        "name": "Food Technology",
+        "subtitle": "Safety, preservation & compliance",
+        "icon": "food",
+        "items": [
+          { "name": "Food Packaging", "badge": "Certified" },
+          { "name": "Food Labelling", "badge": "Certified" },
+          { "name": "HACCP Awareness", "badge": "Certified" },
+          { "name": "FSSAI Regulations", "badge": "Trained" }
+        ]
+      },
+      {
+        "name": "Data and Tools",
+        "subtitle": "Analytics, queries & AI tools",
+        "icon": "data",
+        "items": [
+          { "name": "MS Excel", "badge": "Certified" },
+          { "name": "Power Query", "badge": "Certified" },
+          { "name": "Prompt Engineering basics", "badge": "Certified" }
+        ]
+      },
+      {
+        "name": "Engineering",
+        "subtitle": "Prototyping & systems development",
+        "icon": "engineering",
+        "items": [
+          { "name": "Vertical Farming", "badge": "Hands-on" },
+          { "name": "Drone Prototyping", "badge": "SIH Nominee" },
+          { "name": "Product Development", "badge": "Formulation" }
+        ]
+      },
+      {
+        "name": "Soft Skills",
+        "subtitle": "Leadership, communication & execution",
+        "icon": "softskills",
+        "items": [
+          { "name": "Team Leadership", "badge": "Lead on 4 Projects" },
+          { "name": "Presentation", "badge": "Hackathon Winner" },
+          { "name": "Problem Solving", "badge": "Resource Valorization" }
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "edible-coating",
+      "title": "Edible Coating Solution with Automatic Applying Machine",
+      "status": "Patent work in progress",
+      "role": "Team Lead",
+      "image": "images/edible coating/IMG-20261008-WA0012[1].jpg",
+      "imageAlt": "Edible Coating Solution and Automatic Applying Machine",
+      "description": "Formulated an organic, eco-friendly edible coating matrix using jackfruit peel extract and natural biopolymers to extend the post-harvest shelf life of perishable fruits. Designed, wired, and assembled an automated electromechanical dipping and spraying applicator with sensor-based conveyor timing for uniform coating thickness.",
+      "skills": ["Food Formulation", "Shelf-Life Extension", "Byproduct Valorization", "Machine Prototyping", "Team Leadership"]
+    },
+    {
+      "id": "vertical-farming",
+      "title": "Vertical Farming Using Waste Materials",
+      "status": "Completed & Demonstrated",
+      "role": "Team Lead",
+      "image": "images/vertical farming/IMG-20251219-WA0000.jpg",
+      "imageAlt": "Vertical Farming system constructed using recycled materials",
+      "description": "Engineered a sustainable vertical farming tower utilizing recycled industrial PVC pipes, discarded containers, and customized drip irrigation emitters. Maximized vertical space utilization in constrained micro-climates, drastically reducing water consumption while cultivating fresh greens.",
+      "skills": ["Vertical Agriculture", "Sustainable Engineering", "Waste Upcycling", "Micro-Irrigation", "Resource Optimization"]
+    },
+    {
+      "id": "chewing-gum",
+      "title": "Edible Chewing Gum",
+      "status": "Grain-based, fully edible",
+      "role": "Team Lead",
+      "image": "images/chewing gum/IMG_20260528_161733[1].jpg",
+      "imageAlt": "Grain-based fully edible chewing gum formulation",
+      "description": "Developed an innovative 100% biodegradable, grain-based edible chewing gum formulated from natural cereal starches and plant gums, completely eliminating synthetic petrochemical polymers. Completely safe for human digestion upon accidental swallowing, delivering nutritional fortification with natural flavour retention.",
+      "skills": ["Food Product R&D", "Starch Rheology", "Functional Foods", "Safe Food Formulation", "Sensory Evaluation"]
+    },
+    {
+      "id": "harvesting-drone",
+      "title": "Harvesting Drone",
+      "status": "Planning stage",
+      "role": "Team Lead",
+      "image": "images/harvesting drone/file_0000000066b482088f1f8ade2bf7259a.png",
+      "imageAlt": "Harvesting drone aerodynamic and mechanical prototype schematic",
+      "description": "Conceptualized an autonomous quadcopter drone equipped with lightweight robotic fruit-picking grippers, precision computer vision detection, and gentle crop-collection mechanisms. Presented at an inter-college hackathon and selected for Smart India Hackathon (SIH) nomination.",
+      "skills": ["Precision Agriculture", "Drone Prototyping", "CAD Design", "SIH Selection", "Technical Pitching"]
+    }
+  ],
+  "experience": [
+    {
+      "id": "kodai-chocolate",
+      "organization": "Kodai Chocolate Factory",
+      "location": "Kodaikanal, Tamil Nadu",
+      "duration": "10-day internship",
+      "role": "Processing Unit Intern",
+      "image": "images/internships/IMG-20250627-WA0008[1].jpg",
+      "imageAlt": "Kodai Chocolate Factory processing unit in Kodaikanal",
+      "description": "Completed an intensive 10-day hands-on internship in the commercial chocolate processing and confectionery manufacturing unit.",
+      "highlights": [
+        "Studied cocoa bean roasting, winnowing, refining, and conching parameters for optimal viscosity and flavour.",
+        "Monitored tempering temperatures and chocolate crystallization cycles for glossy finish and snap.",
+        "Observed hygienic mould sanitization, vacuum packaging, and critical quality check protocols."
+      ]
+    },
+    {
+      "id": "pastry-corner",
+      "organization": "Pastry Corner",
+      "location": "Kodaikanal, Tamil Nadu",
+      "duration": "7-day internship",
+      "role": "Processing Unit Intern",
+      "image": "images/internships/IMG-20260509-WA0007[1].jpg",
+      "imageAlt": "Pastry Corner processing unit in Kodaikanal",
+      "description": "Completed a 7-day technical training internship within a high-volume commercial bakery and confectionery processing facility.",
+      "highlights": [
+        "Analyzed dough rheology, gluten matrix development, and yeast fermentation kinetics across baked goods.",
+        "Practiced temperature-controlled proofing, baking profiles, and anti-staling storage measures.",
+        "Ensured compliance with food safety handling protocols, personal hygiene, and packaging hygiene."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": "processx-coordinator",
+      "title": "ProcessX Club Coordinator",
+      "tagline": "Turning Resources into Possibilities",
+      "role": "Student Coordinator",
+      "organization": "Department of Agricultural Engineering, DSU",
+      "image": "images/achievements/Screenshot_20261009_205347[1].jpg",
+      "imageBadge": "images/achievements/IMG_20261009_210526.jpg",
+      "imageAlt": "ProcessX Club Coordinator ceremony and badge",
+      "description": "Elected as Student Coordinator for ProcessX with the guiding motto 'Turning Resources into Possibilities'. Spearheaded technical symposiums, guest lectures from food industry experts, and peer workshops on agro-waste valorization and sustainable agricultural processing."
+    },
+    {
+      "id": "agri-hackathon-first-prize",
+      "title": "First Prize — Agri Hackathon 4.0",
+      "tagline": "Selected by Chief Guest (Entrepreneur)",
+      "role": "Team Lead",
+      "organization": "Department-Level Innovation Hackathon",
+      "image": "images/achievements/IMG_20261009_210125[1].jpg",
+      "imageAlt": "First Prize honor at Agri Hackathon 4.0",
+      "description": "Awarded 1st Prize for pitching an innovative post-harvest food valorization solution. Served as Team Lead, guiding the formulation and pitch. The project was singled out and acclaimed by the entrepreneur Chief Guest for its market viability and commercialization potential."
+    },
+    {
+      "id": "team-lead-projects",
+      "title": "Team Lead — 4 University Engineering Projects",
+      "tagline": "End-to-End Leadership Across Formulation, Prototyping & Pitching",
+      "role": "Team Lead",
+      "organization": "Dhanalakshmi Srinivasan University",
+      "image": "images/achievements/IMG_20260409_195014[1].jpg",
+      "imageAlt": "Team Lead across all four university engineering projects",
+      "description": "Served as the designated Team Lead across all four major engineering initiatives: Edible Coating Solution, Vertical Farming Tower, Edible Chewing Gum, and Harvesting Drone. Directed task distribution, lab formulations, prototyping, and technical jury presentations."
+    }
+  ],
+  "certificates": [
+    {
+      "title": "MS Excel",
+      "issuer": "Mindluster",
+      "category": "Data and Tools",
+      "image": "certificates/certificate-1719649152282[1].jpg",
+      "alt": "MS Excel Certificate from Mindluster"
+    },
+    {
+      "title": "Food Packaging and Techniques",
+      "issuer": "Foodyari",
+      "category": "Food Technology",
+      "image": "certificates/1774453947373-certificate.png",
+      "alt": "Food Packaging and Techniques Certificate from Foodyari"
+    },
+    {
+      "title": "FSSAI Regulations for Food Labelling and Display",
+      "issuer": "Foodyari",
+      "category": "Quality & Compliance",
+      "image": "certificates/1774969957607-certificate.png",
+      "alt": "FSSAI Regulations for Food Labelling and Display Certificate from Foodyari"
+    },
+    {
+      "title": "Power Query in 40 Minutes",
+      "issuer": "ExcelChamps",
+      "category": "Data and Tools",
+      "image": "certificates/certificate-1723617176899[1].jpg",
+      "alt": "Power Query in 40 Minutes Certificate from ExcelChamps"
+    },
+    {
+      "title": "HACCP Awareness",
+      "issuer": "HACCP Made Easy",
+      "category": "Food Safety & QA",
+      "image": "certificates/HACCP-Made-Easy-HME-PUZRLQCBUT-430974.png",
+      "alt": "HACCP Awareness Certificate from HACCP Made Easy"
+    },
+    {
+      "title": "Fundamentals of Prompt Engineering",
+      "issuer": "AWS",
+      "category": "Data and Tools",
+      "image": "certificates/IMG_20261111_165231.jpg",
+      "alt": "Fundamentals of Prompt Engineering Certificate from AWS"
+    }
+  ],
+  "webinarNote": "Attended a two-day webinar on Food Processing and Value Addition",
+  "contact": {
+    "label": "Get In Touch",
+    "title": "Let's Connect",
+    "subtitle": "Seeking Entry-Level Opportunities in Food Industry R&D, Quality Assurance, and Processing Engineering (Graduating 2027).",
+    "email": "kiruthika0005@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/kiruthika-m-123070317",
+    "github": "https://github.com/kiruthika-m337",
+    "resumeUrl": "resume/Kiruthika_M_Resume.pdf",
+    "location": "Dhanalakshmi Srinivasan University, Tiruchirappalli, Tamil Nadu, India",
+    "availability": "Available for Full-Time Roles & R&D Projects (Class of 2027)"
+  },
+  "footer": {
+    "copyright": "© 2027 M. Kiruthika"
+  }
+}
